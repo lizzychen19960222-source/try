@@ -9,8 +9,8 @@ const PAGE_DATA = {
     {
       type: "email",
       label: "Email",
-      value: "example@domain.com",
-      href: "mailto:example@domain.com",
+      value: "lizzychen19960222@gmail.com",
+      href: "mailto:lizzychen19960222@gmail.com",
       copyable: true,
       icon: "mail",
       social: true,
@@ -27,7 +27,7 @@ const PAGE_DATA = {
     {
       type: "wechat",
       label: "WeChat",
-      value: "thisisyuzhou",
+      value: "thisisyuhzou",
       copyable: true,
       icon: "wechat",
       social: false,

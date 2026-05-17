@@ -27,7 +27,7 @@ const PAGE_DATA = {
     {
       type: "wechat",
       label: "WeChat",
-      value: "thisisyuhzou",
+      value: "thisisyuzhou",
       copyable: true,
       icon: "wechat",
       social: false,
